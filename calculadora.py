@@ -18,3 +18,5 @@ elif op == "/":
         print("El resultado es: ", n1/n2)
     else:
         print("Error: Division por cero no permitida.")
+else:
+    print("Pon un simbolo permitido")
