@@ -1,3 +1,0 @@
-ppt_victorias:1
-adivina_mejor:140
-calculo_mejor:375
