@@ -6,7 +6,7 @@ class Libro:
     def mostrar_info(self):
         print(f"el título es {self.titulo} y el autor es {self.autor}")
 
-mi_libro = Libro("Luna de pluton", "Dross")
+mi_libro = Libro("He was a serial killa", "Druski")
 
 mi_libro.mostrar_info()
 
@@ -17,7 +17,7 @@ class Usuario:
     def mostrar_usuario(self):
         print(f"El usuario es {self.nombre}")
 
-user1 = Usuario("duma")
+user1 = Usuario("David")
 user1.mostrar_usuario()
 
 class Biblioteca:
